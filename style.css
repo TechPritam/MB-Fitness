@@ -1,0 +1,95 @@
+#container{
+    right: 30% !important;
+    position: relative;
+}
+
+.main{
+    background: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(wallpaper.jpg);
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+.main img{
+    color: white;
+}
+#first{
+    color: white;
+}
+#first h1{
+    font-family: cursive;
+}
+#first p{
+    font-family: 'Signika Negative', sans-serif !important;
+}
+#first button{
+    background: white !important;
+    color: black;
+}
+#first button:hover{
+    background: transparent !important;
+    color: white;
+}
+#gym{
+    border-radius: 50%;
+}
+#hero{
+    border-radius: 10% !important;
+    background: red;
+}
+.line{
+    text-align: center;
+    background: #dee3e0;
+    font-size: 15px;
+}
+#labrada{
+    background: #101a24;
+}
+#labrada img{
+    border-radius: 50%;
+}
+
+
+.blog{
+    padding: 0px 30px;
+    font-size: xxx-large;
+    font-family: cursive;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.myvlog{
+    background: #091826;
+    color: white;
+
+}
+
+
+.product h1{
+    
+    color: white;
+    font-size: xxx-large;
+    font-family: cursive;
+}
+.our-product{
+    background: rgb(16 26 35)
+}
+.product{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#h2{
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    margin: 10px 50px;
+}
+.map{
+    background: #141c24;
+}
+#padding{
+    padding: 10px 23px;
+}
+.strip{
+    background: black !important;
+}
